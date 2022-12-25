@@ -1,0 +1,27 @@
+*{
+  /* background-color: rgb(7, 5, 5); */
+  background-color: #1a202c;
+}
+
+select{
+height: 50px ;
+width: 150px;
+margin-top: 60px;
+text-align: center;
+background-color: white;
+border-radius:5px;
+}
+
+img{
+  margin-top: 45px;
+}
+
+article{
+  margin-top: 75px;
+  color:white;
+  text-shadow: 3px;
+}
+
+.option{
+  color:white;
+}
